@@ -1,5 +1,8 @@
-export default function HomePage () {
+export default function HomePage() {
   return (
-    <div>Home Page</div>
-  )
+    <div>
+      <h1 className='h1-bold'>Home Page</h1>
+    </div>
+  );
 }
+
